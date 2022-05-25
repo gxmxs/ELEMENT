@@ -1,13 +1,15 @@
   # ELEMENT: SELFBOT
 
-  
-  | ------------- |
   ## Recursos:  
   * Feito para divulgações
-  *1: Abra o "token.txt" cole seu token la, salve e feche. 
-  *2: Abra o "mensagem.txt" cole a mensagem que voce dejesa que seja enviada, salve e feche.
-  *3: Abra o ElementDiv.py Cole o codigo de convite do grupo e inicie.
-  *4: Logo em seguida a mensagem vai ser enviada no pv de cada um que esteja no servidor.
+  
+  * 1: Abra o "token.txt" cole seu token la, salve e feche. 
+  
+  * 2: Abra o "mensagem.txt" cole a mensagem que voce dejesa que seja enviada, salve e feche.
+  
+  * 3: Abra o ElementDiv.py Cole o codigo de convite do grupo e inicie.
+  
+  * 4: Logo em seguida a mensagem vai ser enviada no pv de cada um que esteja no servidor.
   # <p align="center">Sreenshot
   ![sreenshot](screenshot.PNG)
   
